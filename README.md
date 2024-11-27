@@ -1,5 +1,7 @@
 <p align="center"><img align="center" width="280" src="docs/img/icon.png"/></p>
-<h1 align="center">ChronomancerAI: A TimeSeries analysis and model training repository</h1>
+<h1 align="center">ChronomancerAI 
+
+A TimeSeries analysis and model training repository</h1>
 <hr>
 
 <p align="center">
